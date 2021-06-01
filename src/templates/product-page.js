@@ -19,7 +19,7 @@ export const ProductPageTemplate = ({
   pricing,
 }) => (
   <p>aaaaaaaaaaaaaaaaasssas</p>
-  <div className="content">
+  <div className="content">aaaaaaa
     <div
       className="full-width-image-container margin-top-0"
       style={{
